@@ -1,4 +1,4 @@
-#Customer Booking Prediction: A Machine Learning Approach
+Customer Booking Prediction: A Machine Learning Approach
 This project aims to build a predictive model to forecast the likelihood of a customer completing a flight booking.  The model leverages machine learning techniques to analyze various factors influencing booking completion and provides insights into potential areas for improvement in the booking process.
 
 I. Project Overview
